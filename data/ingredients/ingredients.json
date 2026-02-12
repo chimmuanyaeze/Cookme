@@ -1,0 +1,76 @@
+{
+  "ingredients": [
+    {
+      "id": "melon_seeds",
+      "names": {
+        "english": "Melon Seeds",
+        "igbo": "Egusi",
+        "yoruba": "Egusi",
+        "hausa": "Kankana Tsaba"
+      }
+    },
+    {
+      "id": "palm_oil",
+      "names": {
+        "english": "Palm Oil",
+        "igbo": "Mmanụ Nkụ",
+        "yoruba": "Epo Pupa",
+        "hausa": "Man Ja"
+      }
+    },
+    {
+      "id": "stockfish",
+      "names": {
+        "english": "Stockfish",
+        "igbo": "Okporoko",
+        "yoruba": "Panla",
+        "hausa": "Busasshen Kifi"
+      }
+    },
+    {
+      "id": "rice",
+      "names": {
+        "english": "Rice",
+        "igbo": "Osikapa",
+        "yoruba": "Iresi",
+        "hausa": "Shinkafa"
+      }
+    },
+    {
+      "id": "tomato",
+      "names": {
+        "english": "Tomato",
+        "igbo": "Isi Ose",
+        "yoruba": "Tomati",
+        "hausa": "Tumatir"
+      }
+    },
+    {
+      "id": "onion",
+      "names": {
+        "english": "Onion",
+        "igbo": "Yabasị",
+        "yoruba": "Alubosa",
+        "hausa": "Albasa"
+      }
+    },
+    {
+      "id": "thyme",
+      "names": {
+        "english": "Thyme",
+        "igbo": "Thyme",
+        "yoruba": "Thyme",
+        "hausa": "Thyme"
+      }
+    },
+    {
+      "id": "curry",
+      "names": {
+        "english": "Curry Powder",
+        "igbo": "Curry",
+        "yoruba": "Curry",
+        "hausa": "Curry"
+      }
+    }
+  ]
+}

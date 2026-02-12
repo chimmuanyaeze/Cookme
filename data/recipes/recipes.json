@@ -1,0 +1,305 @@
+{
+  "recipes": [
+    {
+      "id": "egusi_soup",
+      "name": "Egusi Soup",
+      "origin": {
+        "country": "Nigeria",
+        "region": "South-East",
+        "ethnic_group": "Igbo"
+      },
+      "category": "Soup",
+      "difficulty": "Medium",
+      "estimated_time_minutes": 60,
+      "serving_size": "4-6 people",
+      "ingredients": [
+        {
+          "ingredient_id": "melon_seeds",
+          "quantity": 2,
+          "unit": "standard 250ml cups",
+          "optional": false
+        },
+        {
+          "ingredient_id": "palm_oil",
+          "quantity": 1,
+          "unit": "standard 250ml cup",
+          "optional": false
+        },
+        {
+          "ingredient_id": "stockfish",
+          "quantity": 1,
+          "unit": "medium piece",
+          "optional": true
+        },
+        {
+          "ingredient_id": "beef",
+          "quantity": 500,
+          "unit": "grams",
+          "optional": false
+        },
+        {
+          "ingredient_id": "spinach",
+          "quantity": 1,
+          "unit": "bunch",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Go to the kitchen cupboard and bring out a clean, medium-sized cooking pot.",
+          "tip": "Ensure the pot is dry."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Place the pot on the stove.",
+          "tip": null
+        },
+        {
+          "step_number": 3,
+          "instruction": "Turn on the stove to medium heat.",
+          "tip": "Be careful with the fire."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Measure 1 standard cup (250ml) of palm oil.",
+          "tip": "Use a measuring cup for accuracy."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Pour the palm oil into the pot on the stove.",
+          "tip": "Pour slowly to avoid splashing."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Allow the oil to warm up for about 2 minutes. Do not let it bleach (change color drastically).",
+          "tip": "It should just be hot, not smoking."
+        },
+        {
+          "step_number": 7,
+          "instruction": "While the oil heats, take a small bowl and pour in the ground egusi (melon seeds).",
+          "tip": null
+        },
+        {
+          "step_number": 8,
+          "instruction": "Add about half a cup of water to the egusi and mix it with a spoon until it forms a thick paste.",
+          "tip": "It should look like stiff dough."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Scoop the egusi paste into the warm oil in small lumps.",
+          "tip": "Use a spoon to drop it in."
+        },
+        {
+          "step_number": 10,
+          "instruction": "Fry the egusi balls for about 5-10 minutes, stirring gently so they don't burn.",
+          "tip": "Stirring prevents sticking."
+        },
+        {
+          "step_number": 11,
+          "instruction": "Add the meat stock (water from boiling your meat) or plain water if you don't have stock.",
+          "tip": "Start with 2 cups of liquid."
+        },
+        {
+          "step_number": 12,
+          "instruction": "Cover the pot and allow it to cook for 20 minutes.",
+          "tip": "Check occasionally to ensure it doesn't dry out."
+        },
+        {
+          "step_number": 13,
+          "instruction": "Add the cooked meat and stockfish to the pot.",
+          "tip": "Be careful of hot splashes."
+        },
+        {
+          "step_number": 14,
+          "instruction": "Add the ground crayfish, salt, and pepper to taste.",
+          "tip": "Start with a little salt, you can always add more."
+        },
+        {
+          "step_number": 15,
+          "instruction": "Stir well and cook for another 10 minutes.",
+          "tip": "The oil should start appearing on top."
+        },
+        {
+          "step_number": 16,
+          "instruction": "Finally, add the chopped spinach or bitter leaf.",
+          "tip": "Wash the vegetables thoroughly before adding."
+        },
+        {
+          "step_number": 17,
+          "instruction": "Stir and let it simmer for 2 minutes, then turn off the stove.",
+          "tip": "Vegetables should stay fresh and green."
+        },
+        {
+          "step_number": 18,
+          "instruction": "Your Egusi Soup is ready! Serve with Pounded Yam or Eba.",
+          "tip": "Enjoy your meal!"
+        }
+      ],
+      "media": {
+        "image": "egusi.png"
+      }
+    },
+    {
+      "id": "jollof_rice",
+      "name": "Nigerian Jollof Rice",
+      "origin": {
+        "country": "Nigeria",
+        "region": "National",
+        "ethnic_group": "All"
+      },
+      "category": "Rice Dish",
+      "difficulty": "Hard",
+      "estimated_time_minutes": 90,
+      "serving_size": "6-8 people",
+      "ingredients": [
+        {
+          "ingredient_id": "rice",
+          "quantity": 3,
+          "unit": "standard 250ml cups",
+          "optional": false
+        },
+        {
+          "ingredient_id": "tomato",
+          "quantity": 5,
+          "unit": "medium",
+          "optional": false
+        },
+        {
+          "ingredient_id": "onion",
+          "quantity": 2,
+          "unit": "bulbs",
+          "optional": false
+        },
+        {
+          "ingredient_id": "palm_oil",
+          "quantity": 0.5,
+          "unit": "standard 250ml cup",
+          "optional": true
+        },
+        {
+          "ingredient_id": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        },
+        {
+          "ingredient_id": "curry",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Go to the kitchen cupboard and take out a large, heavy-bottomed pot.",
+          "tip": "A heavy pot prevents burning."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Place the pot on the stove.",
+          "tip": null
+        },
+        {
+          "step_number": 3,
+          "instruction": "Take your blender out and plug it in.",
+          "tip": "Make sure your hands are dry."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Wash 5 tomatoes and 2 onions thoroughly.",
+          "tip": "Remove any stickers."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Cut the tomatoes and onions into chunks and put them in the blender.",
+          "tip": "Discard the hard stems."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Blend the mixture until it is completely smooth.",
+          "tip": "Add a splash of water if it helps blending."
+        },
+        {
+          "step_number": 7,
+          "instruction": "Turn on the stove to medium heat.",
+          "tip": null
+        },
+        {
+          "step_number": 8,
+          "instruction": "Pour 1 cup of vegetable oil into the pot.",
+          "tip": "Let it heat up for 2 minutes."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Pour the blended tomato mix into the hot oil.",
+          "tip": "Be careful of splashing oil!"
+        },
+        {
+          "step_number": 10,
+          "instruction": "Fry the tomato stew for about 15-20 minutes until the oil floats to the top.",
+          "tip": "Stir occasionally."
+        },
+        {
+          "step_number": 11,
+          "instruction": "While the stew fries, measure 3 standard cups (250ml each) of rice.",
+          "tip": "Use a level cup."
+        },
+        {
+          "step_number": 12,
+          "instruction": "Wash the rice thoroughly with cold water until the water runs clear.",
+          "tip": "This removes excess starch."
+        },
+        {
+          "step_number": 13,
+          "instruction": "Add the washed rice to the frying stew.",
+          "tip": "Stir well to coat every grain."
+        },
+        {
+          "step_number": 14,
+          "instruction": "Add water or stock until it is just above the level of the rice.",
+          "tip": "Do not add too much water."
+        },
+        {
+          "step_number": 15,
+          "instruction": "Add thyme, curry, salt, and seasoning cubes.",
+          "tip": "Taste the water, it should be slightly salty."
+        },
+        {
+          "step_number": 16,
+          "instruction": "Cover the pot tightly with a lid (or foil + lid) to trap steam.",
+          "tip": "Steam cooks the rice, not the water."
+        },
+        {
+          "step_number": 17,
+          "instruction": "Turn the heat down to the lowest setting.",
+          "tip": "Low heat prevents burning."
+        },
+        {
+          "step_number": 18,
+          "instruction": "Cook for 30-40 minutes without opening the pot frequently.",
+          "tip": "Patience is key."
+        },
+        {
+          "step_number": 19,
+          "instruction": "Once the water is dried, stir the rice with a wooden spoon.",
+          "tip": "Check if the grains are soft."
+        },
+        {
+          "step_number": 20,
+          "instruction": "Turn off the heat and let it rest for 5 minutes.",
+          "tip": "Serving hot is best."
+        },
+        {
+          "step_number": 21,
+          "instruction": "Your Jollof Rice is ready!",
+          "tip": "Serve with chicken or plantain."
+        }
+      ],
+      "media": {
+        "image": "nigerian_jollof.png"
+      }
+    }
+  ]
+}
