@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+speechrecognition
+pyttsx3
+gtts
+pygame
